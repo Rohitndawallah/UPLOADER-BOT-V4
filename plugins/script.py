@@ -10,7 +10,7 @@ class Translation(object):
 
 Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
 
-MADE BY @TeamShivaay977 For @Supriya_jaatnii WITH ❤️
+MADE BY 977 For @Supriya_jaatnii WITH ❤️
 
 """
     
@@ -36,9 +36,9 @@ MADE BY @TeamShivaay977 For @Supriya_jaatnii WITH ❤️
 ├📢 **Fʀᴀᴍᴇᴡᴏʀᴋ** : <a href=https://docs.pyrogram.org/>PʏʀᴏBʟᴀᴄᴋ 2.7.0</a>
 ├💮 **Lᴀɴɢᴜᴀɢᴇ** : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3.13.5</a>
 ├💾 **Dᴀᴛᴀʙᴀsᴇ** : <a href=https://cloud.mongodb.com>MᴏɴɢᴏDB</a>
-├🚨 **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : <a href=https://t.me/TeamShivaay977_Bot>BOT Sᴜᴘᴘᴏʀᴛ</a>
-├🥏 **Cʜᴀɴɴᴇʟ** : <a href=https://t.me/BatchesByTeamShivaay977>Bᴏᴛ Cʜᴀɴɴᴇʟ</a>
-├👨‍💻 **Cʀᴇᴀᴛᴇʀ** :  @TeamShivaay977
+├🚨 **Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : <a href=https://t.me/Supriya_jaatnii>BOT Sᴜᴘᴘᴏʀᴛ</a>
+├🥏 **Cʜᴀɴɴᴇʟ** : <a href=https://t.me/Supriya_jaatnii>Bᴏᴛ Cʜᴀɴɴᴇʟ</a>
+├👨‍💻 **Cʀᴇᴀᴛᴇʀ** :   @Supriya_jaatnii
 ╰───────────────⍟
 """
 
@@ -122,7 +122,7 @@ MADE BY @TeamShivaay977 For @Supriya_jaatnii WITH ❤️
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     FORMAT_SELECTION = "<b>Sᴇʟᴇᴄᴛ Yᴏᴜʀ Fᴏʀᴍᴀᴛ 👇</b>\n"
-    SET_CUSTOM_USERNAME_PASSWORD = """<b>🎥 Vɪᴅᴇᴏ = Uᴘʟᴏᴀᴅ As Sᴛʀᴇᴀᴍʙʟᴇ</b>\n\n<b>📂 Fɪʟᴇ = Uᴘʟᴏᴀᴅ As Fɪʟᴇ</b>\n\n<b>👮‍♂ Pᴏᴡᴇʀᴇᴅ Bʏ :</b> @TeamShivaay977"""
+    SET_CUSTOM_USERNAME_PASSWORD = """<b>🎥 Vɪᴅᴇᴏ = Uᴘʟᴏᴀᴅ As Sᴛʀᴇᴀᴍʙʟᴇ</b>\n\n<b>📂 Fɪʟᴇ = Uᴘʟᴏᴀᴅ As Fɪʟᴇ</b>\n\n<b>👮‍♂ Pᴏᴡᴇʀᴇᴅ Bʏ :</b>  @Supriya_jaatnii"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 Downloading... 📥\n\nFile Name: {}"
     UPLOAD_START = "📤 Uploading... 📤"
@@ -136,7 +136,7 @@ MADE BY @TeamShivaay977 For @Supriya_jaatnii WITH ❤️
     NO_CUSTOM_THUMB_NAIL_FOUND = "ɴᴏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ"
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
     FILE_NOT_FOUND = "Error, File not Found!!"
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join : @TeamShivaay977 \n For the list of Telegram bots. "
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join :  @Supriya_jaatnii \n For the list of Telegram bots. "
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
     
 Example: <a href='https://te.legra.ph/file/ecf5297246c5fb574d1a0.jpg'>See This!</a> 👇"""
