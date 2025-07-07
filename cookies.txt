@@ -1,1 +1,4 @@
-Add your own cookies
+# Netscape HTTP Cookie File
+# This is a sample cookies.txt. Replace with your real cookies.
+.example.com	TRUE	/	FALSE	2145916800	sessionid	abcd1234example
+.example.com	TRUE	/	FALSE	2145916800	auth_token	xyz98765example
