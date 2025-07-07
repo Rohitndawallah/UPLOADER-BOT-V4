@@ -10,7 +10,7 @@ class Translation(object):
 
 Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
 
-MADE BY 977 For @Supriya_jaatnii WITH ❤️
+**Made By 977 For @Supriya_jaatnii With ❤️**
 
 """
     
